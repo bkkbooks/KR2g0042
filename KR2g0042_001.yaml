@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2g0042/krp/v1/juan/1
+seq: 1
+front:
+  text: 欽定四庫全書欽定宗室王公功績表傳卷一
+  hash: sha256:607827123e61ffd5526f000f51c57b5f52365050bdd976c5ef4d99df568f425c
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2g0042_WYG_001-1a, image: WYG0454/WYG0454-0019a.png}
+body:
+  text: 表一親王郡王和碩禮親王和碩英親王和碩睿親王和碩豫親王和碩肅親王和碩承澤親王和碩鄭親王和碩敬謹親王和碩頴親王和碩端重親王多羅饒餘郡王多羅克勤郡王多羅謙郡王多羅順承郡王欽定宗室王公功績表傳卷一
+  hash: sha256:c231e8adce73e70cdaa75b93b7070092eafcb8ba3529b11889d2ee76ee64e80d
+metadata:
+  title: 欽定宗室王公功績表傳
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:35:50.975228'
+  juan_title: 卷一
+  source:
+    repository: kanripo
+    path: KR2g0042/KR2g0042_001.txt
+hash: sha256:4e98f09a49037eeca0a10cdf5bb1a9f9059c6eb7c2e248f3eeef31e0f04ac890
